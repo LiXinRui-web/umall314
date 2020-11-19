@@ -6,7 +6,7 @@ import router from './router'
 
 Vue.config.productionTip = false
  
-import "./assets/css/reset.css"
+// import "./assets/css/reset.css"
 import  "./components"
 import "./filters"
 import store from "./store"
